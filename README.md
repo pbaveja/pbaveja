@@ -1,4 +1,4 @@
-<img src="https://linuxfoundation.org/wp-content/uploads/linux.svg" alt="Tux, the Linux mascot" width="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Tux, the Linux mascot" width="50"/>
 
 #### Hey, I’m Prakhar.
 
