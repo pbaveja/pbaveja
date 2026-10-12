@@ -2,8 +2,8 @@
 
 #### Hey, I’m Prakhar.
 
-<sub>I’m a full stack engineer, currently working and living in New Delhi. Right now I’m building feature filled podcasting experiences for creators!</sub>
+<sub>I’m an everything engineer, working and living in India. Currently keeping things alive at Google and harnessing LLMs the best I can. In the past, I've built E2E tooling and algorithms for the podcast creators!</sub>
 
 <sub>You can find out more about me here: [prakharbaveja.com](https://prakharbaveja.com) <br /></sub>
-<sub>Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/prakhar-baveja-244907106/)</sub>
+<sub>Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/prakhar-baveja)</sub>
 
